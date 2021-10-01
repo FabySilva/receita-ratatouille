@@ -9,7 +9,7 @@ O prato, cujo nome significa picar ou triturar, foi criado por camponeses com po
 
 A receita ganhou destaque depois do sucesso do filme de mesmo nome, no qual um camundongo vive uma aventura para realizar seu sonho de se tornar um famoso chef de cozinha em Paris.
 
-ingredientes.
+ingredientes:
 
     -2 abobrinhas
 
